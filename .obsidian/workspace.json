@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Git TEST"
             }
+          },
+          {
+            "id": "4ee5e1cc3d84944d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/area.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "area"
+            }
+          },
+          {
+            "id": "72d90a67b47b6d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-archive/archive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "archive"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,10 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "728c9e39f94ea703",
+  "active": "c5211ca0534e182c",
   "lastOpenFiles": [
-    "0-inbox/Hello world.md",
+    "2-areas/area.md",
+    "4-archive/archive.md",
     "0-inbox/Git TEST.md",
+    "0-inbox/Hello world.md",
     "Welcome.md",
     "my testnote.md",
     "1-projects/skivakantie 2027 - nieuw gebied/0 Planning om 2027.md",
