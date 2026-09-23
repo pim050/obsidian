@@ -30,3 +30,13 @@ Gevoed door een enkele sterke USB-C Powerhub.
 Opletten: Sommige powerhubs, verliezen spanning als er in de hub een kabel in/uit wordt getrokken
 
 [[homelab]]
+
+
+Kopen: 2kg PETG voor de rack. en 'shelves'
+m6x12mm buttonhead screws
+m6 nuts
+
+Ook gelijk kopen voor ander project (esp32 doosje)
+m3x16
+m3x16
+m3 nuts
