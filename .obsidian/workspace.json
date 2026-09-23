@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Module 01.05 Viewing & Manipulating Files"
             }
-          },
-          {
-            "id": "4cb5d6fa5590b188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cb5d6fa5590b188",
+  "active": "c5211ca0534e182c",
   "lastOpenFiles": [
     "1-projects/DevOps OS - part 1/Module 01.05 Viewing & Manipulating Files.md",
     "conflict-files-obsidian-git.md",
