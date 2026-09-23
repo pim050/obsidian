@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Module 01.05 Viewing & Manipulating Files"
             }
+          },
+          {
+            "id": "4cb5d6fa5590b188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,10 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72d90a67b47b6d71",
+  "active": "4cb5d6fa5590b188",
   "lastOpenFiles": [
-    "1-projects/DevOps OS - part 1/Module 01.04 opdracht.md",
     "1-projects/DevOps OS - part 1/Module 01.05 Viewing & Manipulating Files.md",
+    "conflict-files-obsidian-git.md",
+    "1-projects/DevOps OS - part 1/Module 01.04 opdracht.md",
     "1-projects/DevOps OS - part 1/Module 01.05",
     "0-inbox/File system.md",
     "1-projects/DevOps OS - part 1",
@@ -231,7 +246,6 @@
     "my testnote.md",
     "1-projects/skivakantie 2027 - nieuw gebied/0 Planning om 2027.md",
     "1-projects/skivakantie 2027 - nieuw gebied/Ski klas voor Maud.md",
-    "1-projects/skivakantie 2027 - nieuw gebied/In oostenrijk kan je lekker eten.md",
     "3-resources/verduurzaam",
     "3-resources/Homelab",
     "1-projects/skivakantie 2027 - nieuw gebied/Untitled",
