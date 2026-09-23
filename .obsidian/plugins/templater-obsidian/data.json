@@ -11,7 +11,7 @@
   "folder_templates": [
     {
       "folder": "0-inbox",
-      "template": "Templates/Template.md"
+      "template": "Templates/Template PARAmethode.md"
     }
   ],
   "file_templates": [],
