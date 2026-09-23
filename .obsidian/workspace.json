@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/DevOps OS - part 1/Opdracht module 01.04.md",
+                "file": "1-projects/DevOps OS - part 1/Module 01.05 Viewing & Manipulating Files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opdracht module 01.04"
+              "title": "Module 01.05 Viewing & Manipulating Files"
             }
           }
         ],
@@ -201,8 +201,10 @@
   },
   "active": "72d90a67b47b6d71",
   "lastOpenFiles": [
+    "1-projects/DevOps OS - part 1/Module 01.04 opdracht.md",
+    "1-projects/DevOps OS - part 1/Module 01.05 Viewing & Manipulating Files.md",
+    "1-projects/DevOps OS - part 1/Module 01.05",
     "0-inbox/File system.md",
-    "1-projects/DevOps OS - part 1/Opdracht module 01.04.md",
     "1-projects/DevOps OS - part 1",
     "0-inbox/Find Files.md",
     "0-inbox/Onboarding met Sammy.md",
@@ -230,12 +232,10 @@
     "1-projects/skivakantie 2027 - nieuw gebied/0 Planning om 2027.md",
     "1-projects/skivakantie 2027 - nieuw gebied/Ski klas voor Maud.md",
     "1-projects/skivakantie 2027 - nieuw gebied/In oostenrijk kan je lekker eten.md",
-    "1-projects/skivakantie 2027 - nieuw gebied/Waar doen we op de heenweg de tussenstop.md",
     "3-resources/verduurzaam",
     "3-resources/Homelab",
     "1-projects/skivakantie 2027 - nieuw gebied/Untitled",
     "1-projects/skivakantie 2027 - nieuw gebied",
-    "4-archive",
-    "3-resources"
+    "4-archive"
   ]
 }
