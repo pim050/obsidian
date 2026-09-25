@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/DevOps OS - part 1/Module 01.08 Input Output & Pipes.md",
+                "file": "1-projects/Homelab/aanschaffen thingclient.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 01.08 Input Output & Pipes"
+              "title": "aanschaffen thingclient"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "21abb74fecacd43a",
   "lastOpenFiles": [
-    "1-projects/DevOps OS - part 1/Module 01.07 Users, Groups & Permissions.md",
     "1-projects/DevOps OS - part 1/Module 01.08 Input Output & Pipes.md",
+    "1-projects/Homelab/aanschaffen thingclient.md",
+    "1-projects/DevOps OS - part 1/Module 01.07 Users, Groups & Permissions.md",
     "0-inbox/Linked in - I care..md",
     "0-inbox/Linked in.md",
     "0-inbox/Naamloos.md",
@@ -218,7 +219,6 @@
     "0-inbox/Hello wereld test met template.md",
     "0-inbox/Alias command.md",
     "0-inbox/Zoeken Search File contents.md",
-    "0-inbox/Inhoud FIle lezen.md",
     "3-resources/verduurzaam",
     "3-resources/Homelab",
     "1-projects/skivakantie 2027 - nieuw gebied/Untitled",
