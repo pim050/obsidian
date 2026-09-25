@@ -107,6 +107,8 @@ chmod 600 secret.txt   # rw------- (private file)
 chmod 700 private_dir  # rwx------ (private directory)
 ```
 
+
+
 ### **Changing Ownership: [[chown]]**
 
 ```
@@ -115,5 +117,26 @@ sudo chown newowner:newgroup file.txt.   # Change owner and group
 sudo chgrp newgroup file.txt             # change just the group
 sudo chown -R user;group directory       # recursive (for directories)
 
+Testing ownership
+sudo -u testuser cat /tmp/secret.txt     # sudo -u (laat je een command uitvoeren als een andere user) 
+```
+
+
+
+## Challenge
+```
+pim@prodesk01:~$ echo "Alice is a hot ticket" > /tmp/private.txt
+pim@prodesk01:~$ cat /tmp/private.txt 
+Alice is a hot ticket
+pim@prodesk01:~$ sudo chmod 600 /tmp/private.txt 
+pim@prodesk01:~$ ls -la /tmp/private.txt 
+-rw------- 1 pim pim 22 Sep 25 09:32 /tmp/private.txt
+pim@prodesk01:~$ sudo -u alice cat /tmp/private.txt 
+cat: /tmp/private.txt: Permission denied
+pim@prodesk01:~$ sudo chmod 644 /tmp/private.txt 
+pim@prodesk01:~$ sudo -u alice cat /tmp/private.txt 
+Alice is a hot ticket
+pim@prodesk01:~$ rm /tmp/private.txt 
+pim@prodesk01:~$ sudo deluser alice
 ```
 
