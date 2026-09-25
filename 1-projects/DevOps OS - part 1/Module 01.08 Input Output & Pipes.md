@@ -116,7 +116,35 @@ $ ls /nonexistent 2> /dev/null
 
 ## The Pipe Operator
 
+The pipe '|' command sends stdout from one command to stdin of another command.
 
+```
+$ ls /etc | head -5
+ModemManager
+PackageKit
+UPower
+X11
+adduser.conf
+# this creates output in the terminal, but not a file
+```
+## Chaining commands
+```
+$ cat /etc/passwd | grep bash | wc -l
 
+1 cat /etc/passwd reads file and sends contents to stdout #1
+2 grep bash takes stdout #1 as stdin, filters lines containing 'bash', outputs to stdout #2
+3 wc -l takes stdout #2 as stdin, counts lines, outputs result (2) as stdout #3 to terminal
+```
 
+## Practical examples
+```
+$ history | grep ssh
+$ who | sort
+$ w | sort
+$ ls | wc -l
+```
 
+## Usefull filter Commands
+
+ gebleven rond minuut 19:30
+ 
